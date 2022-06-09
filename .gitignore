@@ -1,0 +1,16 @@
+analysis/
+runs/
+models/
+.idea/
+__pycache__/
+configs/__pycache/
+cube/__pycache/
+evaluate/__pycache/
+networks/__pycache/
+search/__pycache/
+train/__pycache/
+widgets/cube_main.ui
+widgets/settings_dialog.ui
+widgets/__pycache/
+*.py[cod]
+*$py.class
