@@ -5,3 +5,4 @@ tensorflow==2.8.0
 keras==2.8.0
 configparser==5.0.2
 PyQt5==5.15.4
+protobuf<=3.20.1

@@ -1,6 +1,5 @@
 analysis/
 runs/
-models/
 .idea/
 __pycache__/
 configs/__pycache/
